@@ -1,6 +1,6 @@
-### **Project Outline: Multi-Threaded Bank System**
+# **Project Outline: Multi-Threaded Bank System**
 
----
+
 
 #### **Objective:**
 Create a console-based bank system in C# to simulate basic banking operations. This project will focus on **multi-threading**, **event-driven programming**, and **LINQ**, giving you hands-on experience with C#'s unique features.
@@ -99,7 +99,7 @@ Highest Balance: Jane Smith ($2,000.00)
    - Implement event-driven notifications for specific conditions.
    - Add LINQ-based reports and test the application.
 
----
+
 
 # Method Outline
 
@@ -134,7 +134,7 @@ The `Bank` class should manage all bank-level operations, including the shared c
 
 ### **Methods to Include in the CustomerAccount Class**
 
-The `CustomerAccount` class should represent individual bank accounts and include methods related to account-specific operations. Here’s the list:
+The `CustomerAccount` class should represent individual bank accounts and include methods related to account-specific operations. Hereï¿½s the list:
 
 #### 1. **Basic Operations**
 - `Deposit(decimal amount)`: Adds the specified amount to the account's balance.
@@ -145,5 +145,3 @@ The `CustomerAccount` class should represent individual bank accounts and includ
 - `ToString()`: Overrides the default `ToString()` method to display account information (e.g., `Name`, `AccountNumber`, and `Balance`).
 
 ---
-
-Would you like me to refine the method descriptions further or provide guidance on class design principles for this project?
