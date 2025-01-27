@@ -22,17 +22,16 @@ To clone this repository enter this command below to clone it to your local fold
 
 ## Summary
 
-I asked Chat GPT for an idea for a small C# project. Over the course of my research and coding for this project I can see a lot of similarities between C# and C++. I wanted Chat GPT to give me a smaller project that also made use of a couple C# features that I wouldnt have been aware of. Below is what I learned
-
+I asked Chat GPT for an idea for a small C# project. Over the course of my research and coding for this project I saw a lot of similarities between C# and C++. I wanted Chat GPT to give me a smaller project that also made use of a couple C# features that I wouldnt have been aware of. My goal for this project was to get comfortable with C# and its syntax as well as learn a couple new concepts based in C#.
 
 ## What I Learned
 
-Over the past two weeks I have been focusing on learning C#. It is very similar in some ways to C++ and Java, but there have been small differences I have learned. I wanted to create a smaller project after researching and watching videos on C# to practice the language before learning ASP.NET and other C# frameworks.
+Over the past two weeks I have been focusing on learning C#. I wanted to create a smaller project after researching and watching videos on C# to practice the language before learning ASP.NET and other C# frameworks.
 
 This project taught me...
 <ul>
         <li>C# classes</li>
-        <li>Tasks</li>
+        <li>C# Tasks</li>
         <li>LINQ queries</li>
         <li>Thread-safe collections</li>
 </ul>
